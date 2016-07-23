@@ -1,21 +1,21 @@
 {
-  "name" : "learn-about-me",
-  "author" : "Sparsh Bansal",
-  "version" : "1.0.0",
-  "private" : true,
-  "scripts" : {
-    "start" : "node app.js"
+  "name": "learn-about-me",
+  "author": "Sparsh Bansal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
   },
-  "dependencies" : {
+  "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.6.5",
+    "body-parser": "^1.15.2",
     "connect-flash": "^0.1.1",
-    "cookie-parser": "^1.3.2",
-    "ejs": "^1.0.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.4.2",
     "express": "^4.14.0",
-    "express-session": "^1.7.6",
-    "mongoose": "^3.8.15",
-    "passport": "^0.2.0",
+    "express-session": "^1.14.0",
+    "mongoose": "^4.5.5",
+    "passport": "^0.3.2",
     "passport-local": "^1.0.0"
   }
 }
